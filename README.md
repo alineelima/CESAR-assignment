@@ -1,5 +1,5 @@
 # CESAR-assignment
-Automação de testes feita como uma atividade para o processo seletivo da CESAR.
+Automação de testes feita como uma atividade para o processo seletivo do CESAR.
 
 ## Tecnologias utilizadas
 - Node.js v10.15.3
